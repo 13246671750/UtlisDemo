@@ -1,0 +1,3 @@
+rootProject.name = "UtlisDemo"
+include ':app'
+include ':Utils'
